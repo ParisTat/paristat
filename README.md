@@ -32,7 +32,7 @@
 | 💒 **Wedding Website** | Personalized website with working attendance system. | React, TypeScript, Firebase, Google Sheets |
 
 <p align="center">
-👨‍💻 All of my projects are available at [https://paristat.github.io/portfolio/](https://paristat.github.io/portfolio/)
+👨‍💻 All of my projects are available at [https://paristat.github.io/portfolio/]
 <br>
 or
 <br>
