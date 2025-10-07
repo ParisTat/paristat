@@ -37,8 +37,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ParisRafail&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParisRafail&theme=github-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ParisTat&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParisTat&theme=github-dark&hide_border=true" />
 </p>
 
 ---
