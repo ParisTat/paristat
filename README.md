@@ -31,11 +31,13 @@
 | 🧱 **Portfolio Website** | Personal showcase with modern dark design and interactive elements. | HTML, CSS, JS |
 | 💒 **Wedding Website** | Personalized website with working attendance system. | React, TypeScript, Firebase, Google Sheets |
 
+<p align="center">
 👨‍💻 All of my projects are available at [https://paristat.github.io/portfolio/](https://paristat.github.io/portfolio/)
 <br>
 or
 <br>
-*(On the pinned repos below 👇)*
+(On the pinned repos below 👇)
+</p>  
 
 ---
 
