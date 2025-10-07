@@ -18,7 +18,7 @@
 - 💻 **Frontend:** React, TypeScript, JavaScript, HTML5, CSS3  
 - 🧩 **Backend:** Node.js, Firebase, Supabase  
 - 🔐 **Auth & Infra:** Keycloak, Docker  
-- 📊 **Currently Learning:** Python for Data Analysis, AI Prompting, Microsoft Fabric  
+- 📊 **Currently Learning:** Python for Data Analysis, AI Prompting, Microsoft Fabric
 
 ---
 
@@ -26,17 +26,24 @@
 
 | Project | Description | Stack |
 |----------|--------------|-------|
-| 🎓 **Interactive Black Hole Website** | Educational site for thesis — cinematic backgrounds, scientific diagrams, interactive sections. | React, HTML, CSS |
-| 💡 **Quiz Web App** | A dynamic quiz app with smooth UI, progress tracking, and responsive design. | React, JavaScript |
+| 🎓 **Interactive Black Hole Website** | Educational site for thesis — cinematic backgrounds, scientific diagrams, interactive sections. | HTML, CSS, JavaScript |
+| 💡 **TalentPool hiring Web App** | A dynamic hiring app with smooth UI, available both on the web and on mobile, perfect for finding jobs or employees. | React, TypeScript, Supabase, Capasitor |
 | 🧱 **Portfolio Website** | Personal showcase with modern dark design and interactive elements. | HTML, CSS, JS |
+| 💒 **Wedding Website** | Personalized website with working attendance system. | React, TypeScript, Firebase, Google Sheets |
 
-*(More projects on the pinned repos below 👇)*
+👨‍💻 All of my projects are available at [https://paristat.github.io/portfolio/](https://paristat.github.io/portfolio/)
+<br>
+or
+<br>
+*(On the pinned repos below 👇)*
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=paristat&label=Profile%20views&color=0e75b6&style=flat" alt="paristat" />
+  <br>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ParisTat&show_icons=true&theme=github_dark&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParisTat&theme=github-dark&hide_border=true" />
 </p>
@@ -71,3 +78,4 @@
   <i>“Clean code, sharp UI, and constant evolution.”</i>
 </p>
 
+---
